@@ -8,9 +8,9 @@ while True:
 
     resposta = input("Digite S para repetir ou N para sair: ").upper()
 
-    if resposta == 'N':
+    if resposta == 'S':
         print("Programa finalizado.")
         break
-    elif resposta != 'S':
+    elif resposta != 'N':
         print("Resposta inválida. O programa será encerrado.")
         break

@@ -1,3 +1,3 @@
-for i in range(70):
+for x in range(6):
 
-    print("Repetição de numero", i)
+    print("Repetição de numero", x)

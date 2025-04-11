@@ -1,7 +1,7 @@
 import random
 
 def jogar():
-    opcoes = ["pedra" , "papel" "tesoura"]
+    opcoes = ["pedra" , "papel", "tesoura"]
 
     jogador = input("Escolha Pedra - Papel - tesoura: ").lower()
     if jogador not in opcoes:

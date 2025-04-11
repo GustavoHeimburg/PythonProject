@@ -7,3 +7,4 @@ pessoa = {
 print(pessoa ['Nome'])
 print(pessoa ['Idade'])
 print(pessoa ['Peso'])
+
